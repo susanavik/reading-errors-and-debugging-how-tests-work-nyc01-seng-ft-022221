@@ -1,1 +1,3 @@
-first_number = "Hello World!".to_i
+first_number = 5
+
+second_number = 1
